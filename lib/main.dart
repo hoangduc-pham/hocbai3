@@ -27,3 +27,8 @@ void main() {
   print('Thông tin của người 2:');
   person2.printInfo();
 }
+// Output:
+// I/flutter ( 8226): Thông tin của người 1:
+// I/flutter ( 8226): Tên: John, Tuổi: 30
+// I/flutter ( 8226): Thông tin của người 2:
+// I/flutter ( 8226): Tên: Alice, Tuổi: 25
